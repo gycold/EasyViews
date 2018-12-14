@@ -1,5 +1,5 @@
 # EasyViews
-[![EasyAndroid](https://api.bintray.com/packages/easyandroid/maven/easyviews/images/download.svg)](https://bintray.com/easyandroid/maven/easyviews/_latestVersion) [![API](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](15+) [![License](https://img.shields.io/appveyor/ci/gruntjs/grunt.svg)](Apache-2.0)
+[![EasyAndroid](https://api.bintray.com/packages/easyandroid/maven/easyviews/images/download.svg)](https://bintray.com/easyandroid/maven/easyviews/_latestVersion) [![Platform](https://img.shields.io/badge/platform-Android-green.svg)](https://developers.google.cn/)[![SDK](https://img.shields.io/badge/minSdkVersion-15%2B-green.svg)](https://developer.android.google.cn/)
 
 各种视图的集合，会不定期更新，欢迎贡献code
 
